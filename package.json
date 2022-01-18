@@ -1,0 +1,13 @@
+{
+  "name": "rubix-22-39-techbuddies",
+  "version": "0.1.0",
+  "description": "Virtual Health Assistant: ParaMate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DSAghicha",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
