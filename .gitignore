@@ -1,3 +1,6 @@
+# Ignoring Config File
+config.env
+
 #dependencies
 node_modules/
 client/.pnp
@@ -13,7 +16,7 @@ client/coverage
 client/build
 
 # misc
-./server/config.env
+
 .DS_Store
 .env.local
 .env.development.local
