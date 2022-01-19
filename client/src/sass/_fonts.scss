@@ -1,0 +1,23 @@
+// Comorant Regular w400
+@font-face {
+    font-family: 'Cormorant';
+    src: url('../assets/fonts/Regular/Cormorant-Regular.eot');
+    src: url('../assets/fonts/Regular/Cormorant-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Regular/Cormorant-Regular.woff2') format('woff2'),
+        url('../assets/fonts/Regular/Cormorant-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+// Comorant Bold w700
+@font-face {
+    font-family: 'Cormorant';
+    src: url('../assets/fonts/Black/Cormorant-Bold.eot');
+    src: url('../assets/fonts/Black/Cormorant-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Black/Cormorant-Bold.woff2') format('woff2'),
+        url('../assets/fonts/Black/Cormorant-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,10 @@
+$weights: 10, 15, 20;
+
+@mixin pad-x {
+    @each $weight in $weights{
+        .pt#{$weight}{padding-top: #{$weight}px;}
+        .pb#{$weight}{padding-bottom: #{$weight}px};
+        .mt#{$weight}{margin-top: #{$weight}px;}
+        .mb#{$weight}{margin-bottom: #{$weight}px};
+    }    
+}
