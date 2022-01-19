@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "description": "Server of ParaMate",
   "main": "server.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
   "author": "DSAghicha",
   "license": "MIT",
   "dependencies": {
